@@ -19,6 +19,14 @@ Header{
   justify-content: center;
   display: flex;
 }
+#urbs{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    background-color: #b8aba8;
+    text-align: center;
+    color: white;
+   }
+  
 .img-urbs{
     width: 59%;
     border-radius: 75px;
