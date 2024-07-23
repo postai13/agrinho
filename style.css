@@ -1,0 +1,21 @@
+:root{
+    --preto:#000000;
+    --preto:#000000;
+    --blue: #3700ff;
+    color: white;
+}
+
+body {
+ background-color:var(--preto);
+}
+
+
+img {
+    width: 10%;
+}
+Header{
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
