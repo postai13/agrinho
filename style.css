@@ -19,3 +19,7 @@ Header{
   justify-content: center;
   display: flex;
 }
+.img-urbs{
+    width: 59%;
+    border-radius: 75px;
+   }
